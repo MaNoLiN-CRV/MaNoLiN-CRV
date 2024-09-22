@@ -1,6 +1,7 @@
-# 💫 MaNoLiN Profile:
-CIBERSECURITY MONKEY 🐒<br><br>👾 PENTESTING 👾<br><br>🎯 OSCP 🎯<br><br><br><br>
+# 💫 MaNoLiN-CRV:
+CIBERSECURITY MONKEY 🐒<br><br>👾 PENTESTING 👾<br><br>🎯 OSCP 🎯<br><br>PROGRAMMING LANGUAGES: <br><br>
 
+![python](https://img.shields.io/badge/python-14abfc) | ![java](https://img.shields.io/badge/java-ff8e05)
 
 # 💻 Tech Stack:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white)

@@ -1,5 +1,5 @@
 # 💫 MaNoLiN-CRV:
-CIBERSECURITY MONKEY 🐒<br><br>👾 PENTESTING 👾<br><br>🎯 OSCP 🎯<br><br>PROGRAMMING LANGUAGES: <br><br>
+👾 PENTESTING 👾<br><br>🎯 OSCP 🎯<br><br>PROGRAMMING LANGUAGES: <br><br>
 
 ![python](https://img.shields.io/badge/python-14abfc)  ![java](https://img.shields.io/badge/java-ff8e05)
 

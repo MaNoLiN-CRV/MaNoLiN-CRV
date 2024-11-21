@@ -1,6 +1,6 @@
 ## 💫 MaNoLiN-CRV:
 👾 PENTESTING 👾<br>
-<br>Software developer <br>
+<br>🌱 Software developer 🌱 <br>
 <br>🎯 OSCP 🎯<br>
 
 # ⚡ Languages and Tools ⚡

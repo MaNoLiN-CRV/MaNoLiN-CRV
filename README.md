@@ -1,6 +1,6 @@
 ## 💫 MaNoLiN-CRV:
 👾 PENTESTING 👾<br>
-<br>🌱 Software developer 🌱 <br>
+<br>🌱 Software developer ❤EL AMOR ESTÁ EN EL AIRE. 🌱 <br>
 <br>🎯 OSCP 🎯<br>
 
 # ⚡ Languages and Tools ⚡
@@ -26,7 +26,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 </div>  
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats (Te quiero):
 ![](https://github-readme-stats.vercel.app/api?username=MaNoLiN-CRV&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaNoLiN-CRV&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaNoLiN-CRV&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

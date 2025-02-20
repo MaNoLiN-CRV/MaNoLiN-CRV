@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 👨‍💻 Manolin
+  # 👨‍💻 Manuel Cervantes
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Software+Engineer;Cloud+Computing+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer🥶;Cloud+Computing+Enthusiast🗿;CyberSecurity👾)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/manuel-cervantes-vico-835b99308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -28,7 +28,7 @@ const manolin = {
         databases: ["MongoDB", "MySQL", "MariaDB"],
         devOps: ["Docker", "Git", "Bash", "Linux"]
     },
-    currentFocus: "Building scalable and efficient full-stack applications"
+    currentFocus: "Improving myself"
 };
 ```
 

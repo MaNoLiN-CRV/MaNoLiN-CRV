@@ -23,7 +23,6 @@ const manolin = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django", "Flask"],
             java: ["Spring Boot"]
         },
         databases: ["MongoDB", "MySQL", "MariaDB"],

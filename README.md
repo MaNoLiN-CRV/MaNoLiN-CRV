@@ -84,10 +84,6 @@ const manolin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaNoLiN-CRV&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaNoLiN-CRV&show_icons=true&theme=radical" alt="MaNoLiN-CRV's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaNoLiN-CRV&layout=compact&theme=radical" alt="MaNoLiN-CRV's Top Languages"/>
 </div>
@@ -108,7 +104,3 @@ const manolin = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MaNoLiN-CRV/MaNoLiN-CRV/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>

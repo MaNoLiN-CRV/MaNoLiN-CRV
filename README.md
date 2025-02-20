@@ -1,74 +1,114 @@
-<h1>👋 Manolin</h1>
-<h2>💻 Full-Stack Developer | Crafting efficient and scalable applications.</h2>
-
-<h2>🛠️ Languages and Tools</h2>
-
-<h3>Frontend:</h3>
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" title="React"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" title="Javascript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" title="Typescript"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="30" title="Redux"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" title="Flutter"/></a>
-  <a href="https://dart.dev/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" title="Dart"/></a>
+  
+  # 👨‍💻 Manuel Cervantes Vico
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Software+Engineer;Cloud+Computing+Enthusiast)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/manuel-cervantes-vico-835b99308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:cervantesvicomanuel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <img src="https://komarev.com/ghpvc/?username=MaNoLiN-CRV&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </p>
 </div>
 
-<h3>Backend:</h3>
+## 🚀 About Me
+
+```typescript
+const manolin = {
+    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            mobile: ["Flutter"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "MariaDB"],
+        devOps: ["Docker", "Git", "Bash", "Linux"]
+    },
+    currentFocus: "Building scalable and efficient full-stack applications"
+};
+```
+
+## 🛠️ Tech Stack
+
+<details>
+<summary>Frontend</summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</details>
+
+<details>
+<summary>Backend</summary>
+<br>
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</details>
+
+<details>
+<summary>Databases</summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</details>
+
+<details>
+<summary>Tools & DevOps</summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</details>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" title="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" title="Express.js"/></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" title="Python"/></a>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" title="Java"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaNoLiN-CRV&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-<h3>Databases:</h3>
 <div align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" title="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" title="MongoDB"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="30" title="MariaDB"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaNoLiN-CRV&show_icons=true&theme=radical" alt="MaNoLiN-CRV's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaNoLiN-CRV&layout=compact&theme=radical" alt="MaNoLiN-CRV's Top Languages"/>
 </div>
 
-<h3>Other:</h3>
+## 🎯 Featured Projects
+
 <div align="center">
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" title="Docker"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" title="Bash"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="30" title="XAMPP"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" title="Linux"/></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" title="Git"/></a>
-  <a href="https://wordpress.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30" title="WordPress"/></a>
+
+[![NetSpider Card](https://github-readme-stats.vercel.app/api/pin/?username=MaNoLiN-CRV&repo=NetSpider&theme=radical)](https://github.com/MaNoLiN-CRV/NetSpider)
+[![ZafrAir Card](https://github-readme-stats.vercel.app/api/pin/?username=MaNoLiN-CRV&repo=ZafrAir&theme=radical)](https://github.com/MaNoLiN-CRV/ZafrAir)
+
 </div>
 
-<h2>📊 GitHub Stats</h2>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaNoLiN-CRV&theme=neon&show_icons=true" alt="MaNoLiN-CRV GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaNoLiN-CRV&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaNoLiN-CRV&theme=neon&layout=compact" alt="MaNoLiN-CRV Top Languages" />
-</p>
-
-<h2>Projects</h2>
-
-<p>
-
-</p>
-
-<ul>
-  <li>
-      <a href="https://github.com/MaNoLiN-CRV/NetSpider">NetSpider</a> - An efficient net scanner - Java
-  </li>
-   <li>
-      <a href="https://github.com/MaNoLiN-CRV/ZafrAir">ZafrAir</a> - Air aconditioner monitor , made with mosquitto MQTT broker - React Native (TypeScript)
-  </li>
-</ul>
-
-<h2>Contact</h2>
-<p>
-  You can contact me via:
-</p>
-<ul>
-  <li><a href="https://www.linkedin.com/in/manuel-cervantes-vico-835b99308/">LinkedIn</a></li>
-  <li><a href="#">cervantesvicomanuel@gmail.com</a></li>
-</ul>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MaNoLiN-CRV/MaNoLiN-CRV/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>

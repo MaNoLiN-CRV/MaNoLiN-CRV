@@ -19,7 +19,7 @@ const manolin = {
     technologies: {
         frontEnd: {
             ts: ["React", "Redux"],
-            mobile: ["Flutter", "React Native" , Kotlin]
+            mobile: ["Flutter", "React Native" , "Kotlin"]
         },
         backEnd: {
             ts: ["Node", "Express"],

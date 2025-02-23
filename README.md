@@ -18,11 +18,11 @@ const manolin = {
     code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
-            mobile: ["Flutter"]
+            ts: ["React", "Redux"],
+            mobile: ["Flutter", "React Native" , Kotlin]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            ts: ["Node", "Express"],
             java: ["Spring Boot"]
         },
         databases: ["MongoDB", "MySQL", "MariaDB"],

@@ -2,7 +2,7 @@
   
   # Manuel Cervantes
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer🥶;Cloud+Computing+Enthusiast🗿;CyberSecurity👾)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer🥶;Cloud+Computing+Enthusiast🗿;CyberSecurity👾;Mobile+Developer📱)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/manuel-cervantes-vico-835b99308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,11 +15,12 @@
 
 ```typescript
 const manolin = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart", "Kotlin"],
     technologies: {
         frontEnd: {
-            ts: ["React", "Redux"],
-            mobile: ["Flutter", "React Native" , "Kotlin"]
+            ts: ["React", "Redux", "Tailwind CSS"],
+            buildTools: ["Vite", "Webpack"],
+            mobile: ["Flutter", "React Native", "Kotlin"]
         },
         backEnd: {
             ts: ["Node", "Express"],
@@ -42,8 +43,21 @@ const manolin = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details>
+<summary>Mobile Development</summary>
+<br>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </details>
 

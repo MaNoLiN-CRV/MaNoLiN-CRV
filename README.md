@@ -117,6 +117,8 @@ const manolin = {
 
 [![NetSpider Card](https://github-readme-stats.vercel.app/api/pin/?username=MaNoLiN-CRV&repo=NetSpider&theme=radical)](https://github.com/MaNoLiN-CRV/NetSpider)
 [![ZafrAir Card](https://github-readme-stats.vercel.app/api/pin/?username=MaNoLiN-CRV&repo=ZafrAir&theme=radical)](https://github.com/MaNoLiN-CRV/ZafrAir)
+[![FlexDiet Card](https://github-readme-stats.vercel.app/api/pin/?username=MaNoLiN-CRV&repo=FlexDiet&theme=radical)](https://github.com/MaNoLiN-CRV/FlexDiet)
+
 
 </div>
 

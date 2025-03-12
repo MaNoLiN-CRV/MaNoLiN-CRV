@@ -29,7 +29,7 @@ const manolin = {
     technologies: {
         frontEnd: {
             ts: ["React", "Redux", "Tailwind CSS"],
-            buildTools: ["Vite", "Webpack"],
+            buildTools: ["Vite"],
             mobile: ["Flutter", "React Native", "Kotlin"]
         },
         backEnd: {
